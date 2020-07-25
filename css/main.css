@@ -216,7 +216,6 @@ body {
     list-style: none;
     padding-left: 0;
     margin: 0;
-    color: var(--text-color-primario);
 }
 
 .others__list.left > li {
@@ -231,6 +230,7 @@ body {
 
 .others__list a {
     text-decoration: none;
+    color: var(--text-color-primario);
 }
 
 .others__list a:hover {
